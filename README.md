@@ -8,7 +8,9 @@ This project provides interactive and beginner-friendly HTML and CSS worksheets 
 
 Structure
 worksheets/: Contains individual worksheet activities.
+
 assets/: Images or media for worksheets.
+
 templates/: Reusable worksheet templates.
 
 Getting Started
@@ -16,7 +18,7 @@ Getting Started
 Open any worksheet inside the worksheets/ folder, and follow the instructions in each activity.
 
 Contributing
-All parents are welcome to add new worksheets or improve existing ones.
+Parents: You are welcome to add new worksheets or improve existing ones.
 See CONTRIBUTING.md for tips on contributing!
 
 Happy coding!

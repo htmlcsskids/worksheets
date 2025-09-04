@@ -12,6 +12,7 @@ assets/: Images or media for worksheets.
 templates/: Reusable worksheet templates.
 
 Getting Started
+
 Open any worksheet inside the worksheets/ folder, and follow the instructions in each activity.
 
 Contributing

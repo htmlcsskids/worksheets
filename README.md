@@ -13,6 +13,7 @@ Getting Started
 Open any worksheet inside the worksheets/ folder, and follow the instructions in each activity.
 
 Contributing
+
 All parents are welcome to add new worksheets or improve existing ones.
 See CONTRIBUTING.md for tips on contributing!
 

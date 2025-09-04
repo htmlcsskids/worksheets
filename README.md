@@ -1,8 +1,6 @@
 # html-css-kids-worksheets
 Interactive HTML &amp; CSS worksheets 
 
-HTML & CSS Kids Worksheets
-
 Welcome to the HTML & CSS Kids Worksheets repository!
 This project provides interactive and beginner-friendly HTML and CSS worksheets for our students.
 
